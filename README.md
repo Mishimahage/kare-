@@ -2,5 +2,5 @@
 ラーメン食べたい
 
 1.aho
-2.hage
-3.manuke
+1.hage
+1.manuke
