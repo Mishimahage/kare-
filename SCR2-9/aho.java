@@ -15,12 +15,20 @@ public class aho extends Actor
     public void act() 
     {
 
+
         // Add your action code here.
         if( Greenfoot.isKeyDown( "down" ) ){
         setRotation(90);
         move(1);
 }
 
+
+
+        // Add your action code here.
+        if( Greenfoot.isKeyDown( "up" ) ){
+        setRotation(270);
+        move(1);
+}
 
         if( Greenfoot.isKeyDown("right")){
             setRotation(0);
